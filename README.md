@@ -4,9 +4,11 @@
 
 * I graduated in Civil Engineering in Brazil, moved to Argentina to learn a little Spanish and then moved to Spain (where I live at the moment). 
 
-* Here, I worked in sales at an Internet Marketing company and after that, worked as a Application Specialist at a multinational Welding & Engineering company;
+* Here, I worked in sales at an Internet Marketing company and after that, worked as a Application Specialist at a Welding & Engineering multinational company;
 
 * In 2022 I finally decided I would follow my heart and started a Web Development bootcamp. Programming is what I reeeeally like to do.
+
+* Now I'm looking for a Web Developer job!
 
 ### MY TECH STACK
 
