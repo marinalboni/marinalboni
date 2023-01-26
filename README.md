@@ -8,7 +8,7 @@
 
 * In 2022 I finally decided I would follow my heart and started a Web Development bootcamp. Programming is what I reeeeally like to do.
 
-* Now I'm looking for a Web Developer job!
+* Now I just want to keep learning and improving my skills!
 
 ### MY TECH STACK
 
